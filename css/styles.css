@@ -540,7 +540,7 @@ footer {
 }
 
 .footer-icon {
-  margin-right: 94px;
+  margin-right: auto;
 }
 
 .footer-icon-list {
@@ -575,7 +575,7 @@ footer {
   margin-right: 0;
 }
 
-.subscription-box {
+.subscription-form {
   display: flex;
 }
 
@@ -590,10 +590,6 @@ footer {
   text-transform: uppercase;
 
   color: var(--accent-color-txt);
-}
-
-.subscription-form {
-  margin-right: 12px;
 }
 
 .subscription-input {
@@ -623,6 +619,7 @@ footer {
   display: block;
   position: relative;
 
+  margin-left: 12px;
   padding: 10px 62px 10px 30px;
 
   border-radius: 4px;
@@ -894,7 +891,7 @@ footer {
 .modal-form-contact {
   display: block;
 
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 
   font-size: 12px;
   line-height: 1.16;
@@ -970,6 +967,7 @@ footer {
 
 .modal-form-checkbox {
   display: flex;
+  justify-content: center;
   align-items: center;
 
   line-height: 1.71;
