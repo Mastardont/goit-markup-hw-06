@@ -836,7 +836,7 @@ footer {
   transform: translate(-50%, -50%) scale(1);
 
   width: 528px;
-  height: 581px;
+  height: 580px;
 
   padding: 40px;
 
@@ -891,7 +891,7 @@ footer {
 .modal-form-contact {
   display: block;
 
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 
   font-size: 12px;
   line-height: 1.16;
